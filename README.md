@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @ThaisGomesAndrade
   
 - 🌱 Atualmente estou lecionando programação no ensino público
+- estudo pelo Alura 
   
 - 📫 How to reach me ...
 
-- ⚡ Fun fact: ...
+- gomezandrade54@gmail.com
 
-<!---
-ThaisGomesAndrade/ThaisGomesAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✈️
+- # thais gomes andrade
+
+
+
