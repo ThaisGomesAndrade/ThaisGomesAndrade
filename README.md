@@ -5,7 +5,7 @@
 
   
 - 🌱 Atualmente estou lecionando programação no ensino público
-- estudo pelo Alura 
+- estudo pelo [Alura] (https://cursos.alura.com.br/loginForm?urlAfterLogin=/loginForm)
   
 - 📫 How to reach me ...
 
