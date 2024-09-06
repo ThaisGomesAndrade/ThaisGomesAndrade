@@ -11,8 +11,6 @@
 
 - gomezandrade54@gmail.com
 
-- ✈️
-- # thais gomes andrade
-
-
-
+  exemplo | valor do exemplo
+  --------| -------
+  valor d |-------
