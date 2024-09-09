@@ -11,6 +11,4 @@
 
 - gomezandrade54@gmail.com
 
-  exemplo | valor do exemplo
-  --------| -------
-  valor d |-------
+  
